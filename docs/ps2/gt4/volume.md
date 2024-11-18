@@ -18,6 +18,9 @@ All PS2 GT titles use the [volume system](../../concepts/volume.md), which will 
 
 If you haven't already, extract the `.iso` file using [7-Zip](https://www.7-zip.org/) or by any other means. You should be able to see a `GT4.VOL` file.
 
+!!! warning
+    `.iso` files for already modded games may fail to extract with generic tools: try using [UltraISO](https://www.ultraiso.com/) if encountering an error when extracting the `.iso` with 7-Zip. (As mentioned later, UltraISO is a paid product, so acquire it however you want.)
+
 Using `GT4FS`, extract the volume file as such
 
 ``` markdown title="Extracting GT4.VOL"
